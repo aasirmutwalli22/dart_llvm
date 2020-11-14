@@ -1,0 +1,12 @@
+name: llvm
+version: 0.0.9
+description: Support for generating LLVM IR, and using the LLVM toolchain within Dart.
+author: Tobe O <thosakwe@gmail.com>
+homepage: https://github.com/thosakwe/llvm
+environment:
+  sdk: '>=2.8.1 <3.0.0'
+dependencies:
+  code_buffer: ^1.0.1
+  meta: ^1.2.3
+  process: ^3.0.13
+  random_string: ^2.1.0
